@@ -20,15 +20,21 @@ This project analyzes 4 years (2015–2018) of retail sales data to uncover prof
 📁 Project Structure
 
 📄 Documentation → docs/SuperStore_Project_Documentation.pdf
+
 📊 Dashboard → (SuperStoreSales_Analysis.pbix file)
+
 📂 Dataset → (Superstore Sales Dataset.xlsx)
 
 📈 Key Insights
 
 💰 Total Revenue: $2.26M
+
 📉 Profit Margin: 12.34% (below industry average)
+
 ⚠️ High discounts significantly reduce profitability
+
 🌍 Central region underperforms compared to West
+
 📦 Some sub-categories (Tables, Bookcases) generate losses
 
 🚀 Features
