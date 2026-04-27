@@ -1,4 +1,5 @@
 🛒 SuperStore Sales Analysis
+
 📊 Project Overview
 
 This project analyzes 4 years (2015–2018) of retail sales data to uncover profitability drivers, discount impact, and regional performance gaps using Power BI.
