@@ -1,60 +1,85 @@
-🛒 SuperStore Sales Analysis
+# 🛒 Super Store Sales Analysis
 
-📊 Project Overview
+## 📊 Project Overview
 
-This project analyzes 4 years (2015–2018) of retail sales data to uncover profitability drivers, discount impact, and regional performance gaps using Power BI.
+This project analyzes retail sales data (2015–2018) to identify profitability drivers, discount impact, and regional performance gaps using Power BI dashboards.
 
-🎯 Objectives
-- Analyze overall revenue and profit trends
-- Identify profitable vs loss-making products
-- Evaluate the impact of discounts on profit
-- Compare regional performance
-- Build a 2-quarter sales forecast
-  
-🛠 Tools & Technologies
-- Microsoft Power BI
-- Power Query
-- Excel
-- DAX (Data Analysis Expressions)
-  
-📁 Project Structure
+---
 
-📄 Documentation → docs/SuperStore_Project_Documentation.pdf
+## 🎯 Objectives
 
-📊 Dashboard → (SuperStoreSales_Analysis.pbix file)
+* Analyze revenue and profit trends
+* Identify loss-making products and sub-categories
+* Evaluate the impact of discounts on profitability
+* Compare regional and state-level performance
+* Build a 2-quarter sales forecast
 
-📂 Dataset → (Superstore Sales Dataset.xlsx)
+---
 
-📈 Key Insights
+## 🛠 Tools Used
 
-💰 Total Revenue: $2.26M
+* Microsoft Power BI
+* Power Query
+* Excel
+* DAX
 
-📉 Profit Margin: 12.34% (below industry average)
+---
 
-⚠️ High discounts significantly reduce profitability
+## 📁 Project Structure
 
-🌍 Central region underperforms compared to West
+```
+docs/
+ ├── SuperStore_Project_Documentation.pdf
+ ├── SuperStore_Project_Documentation.docx
 
-📦 Some sub-categories (Tables, Bookcases) generate losses
+dashboard/
+ ├── SuperStore_Dashboard.pbix
+```
 
-🚀 Features
-- Interactive Power BI dashboard
-- KPI tracking (Revenue, Profit, AOV, Profit_Margin)
-- Regional and category analysis
-- Forecasting with confidence intervals
-- 
-👥 Team Members
-- Mohamed Ibrahim
-- Saeed Ragab
-- Ahmed Abd El Salam
-- Bishoy Saad
-- Mohamed Fawzy
-- Jehad Mahmoud
-  
-📌 Notes
-This project was developed as part of Digital Egypt Pioneers Initiative (DEPI) - Data Analytics - Microsoft Power BI Specialist (2026).
+---
 
-🔗 How to Use
-Download the .pbix file
-Open using Power BI Desktop
-Explore dashboards and insights
+## 📈 Key Insights
+
+* 💰 Total Revenue: $2.26M
+* 📉 Profit Margin: 12.34% (below target)
+* ⚠️ High discounts significantly reduce profit
+* 🌍 Central region underperforms compared to West
+* 📦 Some sub-categories generate losses
+
+---
+
+## 🚀 Dashboard Features
+
+* Interactive KPI tracking
+* Regional and category filtering
+* Profit vs discount analysis
+* Time-series forecasting
+
+---
+
+## 👥 Team Members
+
+* Mohamed Ibrahim
+* Saeed Ragab
+* Ahmed Abd El Salam
+* Bishoy Saad
+* Mohamed Fawzy
+* Jehad Mahmoud
+
+---
+
+## 📌 How to Use
+
+1. Download the `.pbix` file
+2. Open using Power BI Desktop
+3. Explore dashboards and insights
+
+---
+
+## 📎 Documentation
+
+Full project documentation available in:
+
+* `docs/SuperStore_Project_Documentation.pdf`
+
+*This project was developed as part of Digital Egypt Pioneers Initiative (DEPI) program - Data Analytics - Microsoft Power BI Specialist (2026).
