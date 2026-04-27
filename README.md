@@ -26,15 +26,10 @@ This project analyzes retail sales data (2015–2018) to identify profitability 
 ---
 
 ## 📁 Project Structure
-
-```
-docs/
- ├── SuperStore_Project_Documentation.pdf
- ├── SuperStore_Project_Documentation.docx
-
-dashboard/
- ├── SuperStore_Dashboard.pbix
-```
+- 📂 docs/ → project documentation  
+- 📂 dataset/ → raw dataset  
+- 📂 presentation/ → project slides  
+- 📂 dashboard/ → Power BI file  
 
 ---
 
