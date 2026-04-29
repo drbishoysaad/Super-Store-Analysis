@@ -1,6 +1,6 @@
-# 🛒 SuperStore Sales Analysis
+#  SuperStore Sales Analysis
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes retail sales data (2015–2018) to identify profitability drivers, discount impact, and regional performance gaps using interactive Power BI dashboards.
 
@@ -8,7 +8,7 @@ The goal is to transform raw data into actionable insights that support better b
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze revenue and profit trends over time
 * Identify profitable and loss-making products
@@ -27,16 +27,16 @@ The goal is to transform raw data into actionable insights that support better b
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
-* 📂 docs/ → project documentation
-* 📂 dataset/ → raw dataset
-* 📂 presentation/ → project slides
-* 📂 dashboard/ → Power BI file
+*  docs/ → project documentation
+*  dataset/ → raw dataset
+*  presentation/ → project slides
+*  dashboard/ → Power BI file
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 *()*
 
@@ -46,17 +46,17 @@ The goal is to transform raw data into actionable insights that support better b
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
-* 💰 Total Revenue reached **$2.26M** over 4 years
-* 📉 Profit Margin (**12.34%**) is below industry benchmark
-* ⚠️ High discount rates significantly reduce profitability
-* 🌍 Central region underperforms compared to West
-* 📦 Loss-making sub-categories include **Tables and Bookcases**
+*  Total Revenue reached **$2.26M** over 4 years
+*  Profit Margin (**12.34%**) is below industry benchmark
+*  High discount rates significantly reduce profitability
+*  Central region underperforms compared to West
+*  Loss-making sub-categories include **Tables and Bookcases**
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 * Reduce excessive discounting to improve profit margins
 * Focus on high-performing regions (e.g., West)
@@ -65,7 +65,7 @@ The goal is to transform raw data into actionable insights that support better b
 
 ---
 
-## 📊 KPIs
+## KPIs
 
 * Total Sales
 * Total Profit
@@ -75,7 +75,7 @@ The goal is to transform raw data into actionable insights that support better b
 
 ---
 
-## 🚀 Dashboard Features
+## Dashboard Features
 
 * Interactive KPI tracking
 * Regional and category filtering
@@ -84,7 +84,7 @@ The goal is to transform raw data into actionable insights that support better b
 
 ---
 
-## 📎 Documentation
+## Documentation
 
 Full project documentation is available in:
 
@@ -92,7 +92,7 @@ Full project documentation is available in:
 
 ---
 
-## 📌 How to Use
+## How to Use
 
 1. Download the `.pbix` file from the dashboard folder
 2. Open using Power BI Desktop
@@ -100,7 +100,7 @@ Full project documentation is available in:
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 * Mohamed Ibrahim
 * Saeed Ragab
@@ -111,6 +111,6 @@ Full project documentation is available in:
 
 ---
 
-## 📌 Notes
+## Notes
 
 *This project was developed as part of Digital Egypt Pioneers Initiative (DEPI) program - Data Analytics - Microsoft Power BI Specialist (2026).
