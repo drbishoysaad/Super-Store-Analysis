@@ -18,7 +18,7 @@ The goal is to transform raw data into actionable insights that support better b
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * Microsoft Power BI
 * Power Query
