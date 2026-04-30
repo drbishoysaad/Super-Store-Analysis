@@ -1,13 +1,13 @@
-# 🎤 Presentation
+# Presentation
 
 This folder contains the presentation for the **SuperStore Sales Analysis** project.
 
-## 📁 File
+## File
 
 * **SuperStore_Presentation.pptx**
   → Final presentation used to explain the project insights and dashboards
 
-## 📌 Content
+## Content
 
 The presentation includes:
 
