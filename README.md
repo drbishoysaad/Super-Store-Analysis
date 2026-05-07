@@ -36,15 +36,12 @@ The goal is to transform raw data into actionable insights that support better b
 
 ---
 
-##  Dashboard Preview
+## 📊 Dashboard Preview
 
-*()*
-
-```id="add-image"
-![Dashboard](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="900">
+</p>
 ```
-
----
 
 ##  Key Insights
 
